@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "/Users/carmenburghardt/Downloads/myapp2/app/assets"
+		},
+		{
+			"path": "/Users/carmenburghardt/Downloads/myapp2/app/channels"
+		},
+		{
+			"path": "/Users/carmenburghardt/Downloads/myapp2/app/controllers"
+		},
+		{
+			"path": "/Users/carmenburghardt/Downloads/myapp2/app/helpers"
+		},
+		{
+			"path": "/Users/carmenburghardt/Downloads/myapp2/app/jobs"
+		},
+		{
+			"path": "/Users/carmenburghardt/Downloads/myapp2/app/mailers"
+		},
+		{
+			"path": "/Users/carmenburghardt/Downloads/myapp2/app/models"
+		},
+		{
+			"path": "/Users/carmenburghardt/Downloads/myapp2/app/views"
+		}
+	]
+}
